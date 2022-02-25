@@ -1,0 +1,343 @@
+#characters {
+  color: goldenrod;
+}
+
+/* Jacob */
+
+#button-jacob {
+  font-family: 'ZCOOL XiaoWei', serif;
+  width: 80%;
+  height: auto;
+  text-transform: uppercase;
+  color: yellow;
+  background-color: orange;
+  text-align: center;
+  padding: 10px;
+  margin: 0 auto;
+  font-size: 30px;
+  border: 1px solid black;
+}
+
+#button-jacob a {
+  font-size: 2rem;
+  font-family: 'ZCOOL XiaoWei', serif;
+  text-decoration: none;
+  color: yellow;
+}
+
+#jacob {
+  display: none;
+  margin: 0 auto;
+  width: 80%;
+  height: auto;
+}
+
+#close-button-jacob {
+  width: 80%;
+  height: auto;
+  text-transform: uppercase;
+  color: yellow;
+  background-color: orange;
+  text-align: center;
+  padding: 10px;
+  margin: 0 auto;
+  font-size: 30px;
+  border: 1px solid black;
+  display: none;
+}
+
+#close-button-jacob a {
+  text-decoration: none;
+  color: yellow;
+}
+
+/* Tim */
+
+#tim {
+  display: none;
+  margin: 0 auto;
+  width: 80%;
+  height: auto;
+}
+
+#button-tim {
+  font-family: 'ZCOOL XiaoWei', serif;
+  width: 80%;
+  height: auto;
+  text-transform: uppercase;
+  color: silver;
+  background-color: aquamarine;
+  text-align: center;
+  padding: 10px;
+  margin: 0 auto;
+  font-size: 30px;
+  border: 1px solid black;
+}
+
+#button-tim a {
+  font-size: 2rem;
+  font-family: 'ZCOOL XiaoWei', serif;
+  text-decoration: none;
+  color: silver;
+
+}
+
+#close-button-tim {
+  width: 80%;
+  height: auto;
+  text-transform: uppercase;
+  color: silver;
+  background-color: aquamarine;
+    text-align: center;
+    padding: 10px;
+    margin: 0 auto;
+    font-size: 30px;
+    border: 1px solid black;
+    display: none;
+  }
+  
+#close-button-tim a {
+    color: silver;
+  }
+
+  /* Olivia */
+
+#olivia {
+    display: none;
+    margin: 0 auto;
+    width: 80%;
+    height: auto;
+  }
+  
+#button-olivia {
+    font-family: 'ZCOOL XiaoWei', serif;
+    width: 80%;
+    height: auto;
+    text-transform: uppercase;
+    color: white;
+    background-color: cyan;
+    text-align: center;
+    padding: 10px;
+    margin: 0 auto;
+    font-size: 30px;
+    border: 1px solid black;
+  }
+  
+#button-olivia a {
+    font-size: 2rem;
+    font-family: 'ZCOOL XiaoWei', serif;
+    text-decoration: none;
+    color: white;
+  
+  }
+  
+#close-button-olivia {
+      width: 80%;
+      height: auto;
+      text-transform: uppercase;
+      color: white;
+      background-color: cyan;
+      text-align: center;
+      padding: 10px;
+      margin: 0 auto;
+      font-size: 30px;
+      border: 1px solid black;
+      display: none;
+    }
+    
+#close-button-olivia a {
+      color: white;
+    }
+
+/* Slade */
+
+#slade {
+      display: none;
+      margin: 0 auto;
+      width: 80%;
+      height: auto;
+    }
+    
+    #button-slade {
+      font-family: 'ZCOOL XiaoWei', serif;
+      width: 80%;
+      height: auto;
+      text-transform: uppercase;
+      color: red;
+      background-color: black;
+      text-align: center;
+      padding: 10px;
+      margin: 0 auto;
+      font-size: 30px;
+      border: 1px solid black;
+    }
+    
+    #button-slade a {
+      font-size: 2rem;
+      font-family: 'ZCOOL XiaoWei', serif;
+      text-decoration: none;
+      color: red;
+    
+    }
+    
+     #close-button-slade {
+        width: 80%;
+        height: auto;
+        text-transform: uppercase;
+        color: red;
+        background-color: black;
+        text-align: center;
+        padding: 10px;
+        margin: 0 auto;
+        font-size: 30px;
+        border: 1px solid black;
+        display: none;
+      }
+      
+      #close-button-slade a {
+        color: red;
+      }
+
+      /* Patricia */
+
+      #button-patr {
+        font-family: 'ZCOOL XiaoWei', serif;
+        width: 80%;
+        height: auto;
+        text-transform: uppercase;
+        color: orange;
+        background-color: green;
+        text-align: center;
+        padding: 10px;
+        margin: 0 auto;
+        font-size: 30px;
+        border: 1px solid black;
+      }
+      
+      #button-patr a {
+        font-size: 2rem;
+        font-family: 'ZCOOL XiaoWei', serif;
+        text-decoration: none;
+        color: orange;
+      }
+      
+      #patr {
+        display: none;
+        margin: 0 auto;
+        width: 80%;
+        height: auto;
+      }
+
+      #close-button-patr {
+        width: 80%;
+        height: auto;
+        text-transform: uppercase;
+        color: orange;
+        background-color: green;
+        text-align: center;
+        padding: 10px;
+        margin: 0 auto;
+        font-size: 30px;
+        border: 1px solid black;
+        display: none;
+      }
+      
+      #close-button-patr a {
+        text-decoration: none;
+        color: orange;
+      }
+
+      /* Willow */
+
+      #button-will {
+        font-family: 'ZCOOL XiaoWei', serif;
+        width: 80%;
+        height: auto;
+        text-transform: uppercase;
+        color: purple;
+        background-color: yellow;
+        text-align: center;
+        padding: 10px;
+        margin: 0 auto;
+        font-size: 30px;
+        border: 1px solid black;
+      }
+      
+      #button-will a {
+        font-size: 2rem;
+        font-family: 'ZCOOL XiaoWei', serif;
+        text-decoration: none;
+        color: purple;
+      }
+      
+      #will {
+        display: none;
+        margin: 0 auto;
+        width: 80%;
+        height: auto;
+      }
+
+      #close-button-will {
+        width: 80%;
+        height: auto;
+        text-transform: uppercase;
+        color: purple;
+        background-color: yellow;
+        text-align: center;
+        padding: 10px;
+        margin: 0 auto;
+        font-size: 30px;
+        border: 1px solid black;
+        display: none;
+      }
+      
+      #close-button-will a {
+        text-decoration: none;
+        color: purple;
+      }
+
+      #lexi {
+        display: none;
+        margin: 0 auto;
+        width: 80%;
+        height: auto;
+      }
+      
+      #button-lexi {
+        font-family: 'ZCOOL XiaoWei', serif;
+        width: 80%;
+        height: auto;
+        text-transform: uppercase;
+        color: black;
+        background-color: red;
+        text-align: center;
+        padding: 10px;
+        margin: 0 auto;
+        font-size: 30px;
+        border: 1px solid black;
+      }
+      
+      #button-lexi a {
+        font-size: 2rem;
+        font-family: 'ZCOOL XiaoWei', serif;
+        text-decoration: none;
+        color: black;
+      
+      }
+      
+       #close-button-lexi {
+          width: 80%;
+          height: auto;
+          text-transform: uppercase;
+          color: black;
+          background-color: red;
+          text-align: center;
+          padding: 10px;
+          margin: 0 auto;
+          font-size: 30px;
+          border: 1px solid black;
+          display: none;
+        }
+        
+        #close-button-lexi a {
+          color: red;
